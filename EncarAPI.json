@@ -1,0 +1,824 @@
+{
+    "Count": 666,
+    "SearchResults": [{
+        "Id": "35274350",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture07/pic3527/35274350_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture07/pic3527/35274350_001.jpg",
+            "updatedDate": "2023-06-14T04:46:44Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture07/pic3527/35274350_003.jpg",
+            "updatedDate": "2023-06-14T04:46:44Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture07/pic3527/35274350_004.jpg",
+            "updatedDate": "2023-06-14T04:46:44Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture07/pic3527/35274350_007.jpg",
+            "updatedDate": "2023-06-14T04:46:44Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "럭셔리",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201008.0,
+        "FormYear": "2011",
+        "Mileage": 279400.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 430.0,
+        "OfficeCityState": "대전",
+        "ModifiedDate": "2023-06-14 18:44:21.000 +09"
+    }, {
+        "Id": "35234933",
+        "Separation": ["B"],
+        "Trust": ["Warranty", "ExtendWarranty"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture03/pic3523/35234933_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture03/pic3523/35234933_001.jpg",
+            "updatedDate": "2023-06-13T03:50:39Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture03/pic3523/35234933_003.jpg",
+            "updatedDate": "2023-06-13T03:50:39Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture03/pic3523/35234933_004.jpg",
+            "updatedDate": "2023-06-13T03:50:39Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture03/pic3523/35234933_007.jpg",
+            "updatedDate": "2023-06-13T03:50:39Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "올 뉴 투싼",
+        "Badge": "디젤 1.7 2WD",
+        "BadgeDetail": "모던",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201601.0,
+        "FormYear": "2016",
+        "Mileage": 143854.0,
+        "AdWords": "1인소유/완전무사고/탁송거래가능/현금영수증,세금계산서100%",
+        "Hotmark": "10;12;17",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 990.0,
+        "OfficeCityState": "경기",
+        "ModifiedDate": "2023-06-14 18:41:58.000 +09"
+    }, {
+        "Id": "33205409",
+        "Separation": ["B"],
+        "Trust": ["Warranty"],
+        "Condition": ["Inspection"],
+        "Photo": "/carpicture10/pic3320/33205409_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture10/pic3320/33205409_001.jpg",
+            "updatedDate": "2022-09-23T05:52:03Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture10/pic3320/33205409_003.jpg",
+            "updatedDate": "2022-09-23T05:52:03Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture10/pic3320/33205409_004.jpg",
+            "updatedDate": "2022-09-23T05:52:03Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture10/pic3320/33205409_007.jpg",
+            "updatedDate": "2022-09-23T05:52:03Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "스마트팩",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201111.0,
+        "FormYear": "2012",
+        "Mileage": 98138.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 699.0,
+        "OfficeCityState": "전북",
+        "ModifiedDate": "2023-06-14 18:41:15.000 +09"
+    }, {
+        "Id": "35163650",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture06/pic3516/35163650_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture06/pic3516/35163650_001.jpg",
+            "updatedDate": "2023-06-01T02:59:48Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture06/pic3516/35163650_003.jpg",
+            "updatedDate": "2023-06-01T02:59:48Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture06/pic3516/35163650_004.jpg",
+            "updatedDate": "2023-06-01T02:59:48Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture06/pic3516/35163650_007.jpg",
+            "updatedDate": "2023-06-01T02:59:48Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "모던",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201301.0,
+        "FormYear": "2013",
+        "Mileage": 208145.0,
+        "Powerpack": "★완전무사고★썬루프★엔진오일팬/내비/후방 신품교체완료★",
+        "Hotmark": "12;14;17",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 599.0,
+        "OfficeCityState": "대구",
+        "ModifiedDate": "2023-06-14 18:41:04.000 +09"
+    }, {
+        "Id": "33319566",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture01/pic3331/33319566_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture01/pic3331/33319566_001.jpg",
+            "updatedDate": "2022-09-16T07:50:24Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture01/pic3331/33319566_003.jpg",
+            "updatedDate": "2022-09-16T07:50:24Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture01/pic3331/33319566_004.jpg",
+            "updatedDate": "2022-09-16T07:50:24Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture01/pic3331/33319566_007.jpg",
+            "updatedDate": "2022-09-16T07:50:24Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 4WD",
+        "BadgeDetail": "스마트 스페셜",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201407.0,
+        "FormYear": "2015",
+        "Mileage": 89095.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 900.0,
+        "OfficeCityState": "서울",
+        "ModifiedDate": "2023-06-14 18:40:58.000 +09"
+    }, {
+        "Id": "34925810",
+        "Separation": ["B"],
+        "Trust": ["Compensate"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture02/pic3492/34925810_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture02/pic3492/34925810_001.jpg",
+            "updatedDate": "2023-04-26T05:04:28Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture02/pic3492/34925810_003.jpg",
+            "updatedDate": "2023-04-26T05:04:28Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture02/pic3492/34925810_004.jpg",
+            "updatedDate": "2023-04-26T05:04:28Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture02/pic3492/34925810_007.jpg",
+            "updatedDate": "2023-04-26T05:04:28Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "프리미어",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201101.0,
+        "FormYear": "2011",
+        "Mileage": 176398.0,
+        "Powerpack": "엔카 실촬영",
+        "Hotmark": "14;15;13",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 460.0,
+        "OfficeCityState": "인천",
+        "ModifiedDate": "2023-06-14 18:40:58.000 +09"
+    }, {
+        "Id": "34917607",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture01/pic3491/34917607_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture01/pic3491/34917607_001.jpg",
+            "updatedDate": "2023-04-25T06:12:20Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture01/pic3491/34917607_003.jpg",
+            "updatedDate": "2023-04-25T06:12:20Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture01/pic3491/34917607_004.jpg",
+            "updatedDate": "2023-04-25T06:12:20Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture01/pic3491/34917607_007.jpg",
+            "updatedDate": "2023-04-25T06:12:20Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "럭셔리",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201107.0,
+        "FormYear": "2012",
+        "Mileage": 228416.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 400.0,
+        "SalesStatus": "CONTRACT",
+        "OfficeCityState": "대전",
+        "ModifiedDate": "2023-06-14 18:40:51.000 +09"
+    }, {
+        "Id": "33864232",
+        "Separation": ["B"],
+        "Trust": ["Warranty"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture06/pic3386/33864232_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture06/pic3386/33864232_001.jpg",
+            "updatedDate": "2022-11-24T08:00:38Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture06/pic3386/33864232_003.jpg",
+            "updatedDate": "2022-11-24T08:00:38Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture06/pic3386/33864232_004.jpg",
+            "updatedDate": "2022-11-24T08:00:38Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture06/pic3386/33864232_007.jpg",
+            "updatedDate": "2022-11-24T08:00:38Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 2WD",
+        "BadgeDetail": "모던",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201312.0,
+        "FormYear": "2014",
+        "Mileage": 145814.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 760.0,
+        "OfficeCityState": "경기",
+        "ModifiedDate": "2023-06-14 18:40:06.000 +09"
+    }, {
+        "Id": "35084908",
+        "Separation": ["B"],
+        "Trust": ["Warranty"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture08/pic3508/35084908_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture08/pic3508/35084908_001.jpg",
+            "updatedDate": "2023-05-22T07:30:45Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture08/pic3508/35084908_003.jpg",
+            "updatedDate": "2023-05-22T07:30:45Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture08/pic3508/35084908_004.jpg",
+            "updatedDate": "2023-05-22T07:30:45Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture08/pic3508/35084908_007.jpg",
+            "updatedDate": "2023-05-22T07:30:45Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 4WD",
+        "BadgeDetail": "스마트 스페셜",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201401.0,
+        "FormYear": "2014",
+        "Mileage": 164169.0,
+        "AdWords": "*엔카 진단차량* 완전무사고 블랙박스 하이패스 타이어상태 굿~",
+        "Hotmark": "11;17;20",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 750.0,
+        "OfficeCityState": "경기",
+        "ModifiedDate": "2023-06-14 18:39:59.000 +09"
+    }, {
+        "Id": "35066783",
+        "Separation": ["B"],
+        "Trust": ["Warranty", "ExtendWarranty"],
+        "Condition": ["Inspection", "InspectionDirect", "Record"],
+        "Photo": "/carpicture06/pic3506/35066783_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture06/pic3506/35066783_001.jpg",
+            "updatedDate": "2023-05-17T05:12:16Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture06/pic3506/35066783_003.jpg",
+            "updatedDate": "2023-05-17T05:12:16Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture06/pic3506/35066783_004.jpg",
+            "updatedDate": "2023-05-17T05:12:16Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture06/pic3506/35066783_007.jpg",
+            "updatedDate": "2023-05-17T05:12:16Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 2WD",
+        "BadgeDetail": "스마트 스페셜",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201308.0,
+        "FormYear": "2014",
+        "Mileage": 71494.0,
+        "Powerpack": "엔카보증 무사고 짧은주행 신차급관리 특옵션 품질보증 상태최상",
+        "Hotmark": "14;19;29",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 930.0,
+        "OfficeCityState": "부산",
+        "ModifiedDate": "2023-06-14 18:39:59.000 +09"
+    }, {
+        "Id": "33760355",
+        "Separation": ["B"],
+        "Trust": ["Warranty"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture06/pic3376/33760355_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture06/pic3376/33760355_001.jpg",
+            "updatedDate": "2022-11-11T05:16:30Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture06/pic3376/33760355_003.jpg",
+            "updatedDate": "2022-11-11T05:16:30Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture06/pic3376/33760355_004.jpg",
+            "updatedDate": "2022-11-11T05:16:30Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture06/pic3376/33760355_007.jpg",
+            "updatedDate": "2022-11-11T05:16:30Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼",
+        "Badge": "디젤(VGT) 2WD MX",
+        "BadgeDetail": "고급형",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 200905.0,
+        "FormYear": "2009",
+        "Mileage": 126411.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 270.0,
+        "OfficeCityState": "경기",
+        "ModifiedDate": "2023-06-14 18:38:58.000 +09"
+    }, {
+        "Id": "33733748",
+        "Separation": ["B"],
+        "Trust": ["Warranty"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture03/pic3373/33733748_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture03/pic3373/33733748_001.jpg",
+            "updatedDate": "2022-11-10T01:25:22Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture03/pic3373/33733748_003.jpg",
+            "updatedDate": "2022-11-10T01:25:22Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture03/pic3373/33733748_004.jpg",
+            "updatedDate": "2022-11-10T01:25:22Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture03/pic3373/33733748_007.jpg",
+            "updatedDate": "2022-11-10T01:25:22Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 4WD",
+        "BadgeDetail": "모던",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201311.0,
+        "FormYear": "2014",
+        "Mileage": 133470.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 770.0,
+        "OfficeCityState": "경기",
+        "ModifiedDate": "2023-06-14 18:37:58.000 +09"
+    }, {
+        "Id": "35271844",
+        "Separation": ["B"],
+        "Trust": ["Compensate"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture07/pic3527/35271844_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture07/pic3527/35271844_001.jpg",
+            "updatedDate": "2023-06-14T01:37:14Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture07/pic3527/35271844_003.jpg",
+            "updatedDate": "2023-06-14T01:37:14Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture07/pic3527/35271844_004.jpg",
+            "updatedDate": "2023-06-14T01:37:14Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture07/pic3527/35271844_007.jpg",
+            "updatedDate": "2023-06-14T01:37:14Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 2WD",
+        "BadgeDetail": "모던",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201402.0,
+        "FormYear": "2014",
+        "Mileage": 108339.0,
+        "Powerpack": "엔카 실촬영",
+        "Hotmark": "14;15;13",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 890.0,
+        "OfficeCityState": "경기",
+        "ModifiedDate": "2023-06-14 18:37:58.000 +09"
+    }, {
+        "Id": "34036298",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture03/pic3403/34036298_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture03/pic3403/34036298_001.jpg",
+            "updatedDate": "2022-12-20T06:05:25Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture03/pic3403/34036298_003.jpg",
+            "updatedDate": "2022-12-20T06:05:25Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture03/pic3403/34036298_004.jpg",
+            "updatedDate": "2022-12-20T06:05:25Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture03/pic3403/34036298_007.jpg",
+            "updatedDate": "2022-12-20T06:05:25Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "럭셔리",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201107.0,
+        "FormYear": "2012",
+        "Mileage": 141900.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 650.0,
+        "OfficeCityState": "서울",
+        "ModifiedDate": "2023-06-14 18:37:03.000 +09"
+    }, {
+        "Id": "35190063",
+        "Separation": ["B"],
+        "Trust": ["Warranty"],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture09/pic3519/35190063_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture09/pic3519/35190063_001.jpg",
+            "updatedDate": "2023-06-02T15:15:25Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture09/pic3519/35190063_003.jpg",
+            "updatedDate": "2023-06-02T15:15:25Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture09/pic3519/35190063_004.jpg",
+            "updatedDate": "2023-06-02T15:15:25Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture09/pic3519/35190063_007.jpg",
+            "updatedDate": "2023-06-02T15:15:25Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "럭셔리",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201107.0,
+        "FormYear": "2012",
+        "Mileage": 139303.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 630.0,
+        "SalesStatus": "CONTRACT",
+        "OfficeCityState": "울산",
+        "ModifiedDate": "2023-06-14 18:36:55.000 +09"
+    }, {
+        "Id": "33044078",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture04/pic3304/33044078_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture04/pic3304/33044078_001.jpg",
+            "updatedDate": "2022-08-10T03:50:01Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture04/pic3304/33044078_003.jpg",
+            "updatedDate": "2022-08-10T03:50:01Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture04/pic3304/33044078_004.jpg",
+            "updatedDate": "2022-08-10T03:50:01Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture04/pic3304/33044078_007.jpg",
+            "updatedDate": "2022-08-10T03:50:01Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD X20",
+        "BadgeDetail": "럭셔리",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201107.0,
+        "FormYear": "2012",
+        "Mileage": 182748.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 550.0,
+        "OfficeCityState": "경기",
+        "ModifiedDate": "2023-06-14 18:36:08.000 +09"
+    }, {
+        "Id": "35191348",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection"],
+        "Photo": "/carpicture09/pic3519/35191348_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture09/pic3519/35191348_001.jpg",
+            "updatedDate": "2023-06-02T04:35:17Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture09/pic3519/35191348_003.jpg",
+            "updatedDate": "2023-06-02T04:35:17Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture09/pic3519/35191348_004.jpg",
+            "updatedDate": "2023-06-02T04:35:17Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture09/pic3519/35191348_007.jpg",
+            "updatedDate": "2023-06-02T04:35:17Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "스마트팩",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201110.0,
+        "FormYear": "2012",
+        "Mileage": 97435.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 680.0,
+        "OfficeCityState": "전북",
+        "ModifiedDate": "2023-06-14 18:36:04.000 +09"
+    }, {
+        "Id": "35000491",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture10/pic3500/35000491_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture10/pic3500/35000491_001.jpg",
+            "updatedDate": "2023-05-08T08:35:53Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture10/pic3500/35000491_003.jpg",
+            "updatedDate": "2023-05-08T08:35:53Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture10/pic3500/35000491_004.jpg",
+            "updatedDate": "2023-05-08T08:35:53Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture10/pic3500/35000491_007.jpg",
+            "updatedDate": "2023-05-08T08:35:53Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "투싼 ix",
+        "Badge": "디젤 2WD LX20",
+        "BadgeDetail": "스마트팩",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201005.0,
+        "FormYear": "2011",
+        "Mileage": 107795.0,
+        "AdWords": "★완~전 무사고!★ 짧은키로수! 가격확내렸음! 정말 동급최저가!",
+        "Hotmark": "14;17;19",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 599.0,
+        "OfficeCityState": "서울",
+        "ModifiedDate": "2023-06-14 18:35:58.000 +09"
+    }, {
+        "Id": "34863738",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "InspectionDirect", "Record"],
+        "Photo": "/carpicture06/pic3486/34863738_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture06/pic3486/34863738_001.jpg",
+            "updatedDate": "2023-04-18T05:26:44Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture06/pic3486/34863738_003.jpg",
+            "updatedDate": "2023-04-18T05:26:44Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture06/pic3486/34863738_004.jpg",
+            "updatedDate": "2023-04-18T05:26:44Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture06/pic3486/34863738_007.jpg",
+            "updatedDate": "2023-04-18T05:26:44Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 2WD",
+        "BadgeDetail": "스마트 스페셜",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201410.0,
+        "FormYear": "2015",
+        "Mileage": 121978.0,
+        "Powerpack": "엔카 실촬영",
+        "Hotmark": "14;15;13",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 899.0,
+        "OfficeCityState": "부산",
+        "ModifiedDate": "2023-06-14 18:34:58.000 +09"
+    }, {
+        "Id": "34982884",
+        "Separation": ["B"],
+        "Trust": [],
+        "Condition": ["Inspection", "Record"],
+        "Photo": "/carpicture08/pic3498/34982884_",
+        "Photos": [{
+            "type": "001",
+            "location": "/carpicture08/pic3498/34982884_001.jpg",
+            "updatedDate": "2023-05-04T05:56:01Z",
+            "ordering": 1.0
+        }, {
+            "type": "003",
+            "location": "/carpicture08/pic3498/34982884_003.jpg",
+            "updatedDate": "2023-05-04T05:56:01Z",
+            "ordering": 3.0
+        }, {
+            "type": "004",
+            "location": "/carpicture08/pic3498/34982884_004.jpg",
+            "updatedDate": "2023-05-04T05:56:01Z",
+            "ordering": 4.0
+        }, {
+            "type": "007",
+            "location": "/carpicture08/pic3498/34982884_007.jpg",
+            "updatedDate": "2023-05-04T05:56:01Z",
+            "ordering": 7.0
+        }],
+        "Manufacturer": "현대",
+        "Model": "뉴 투싼 ix",
+        "Badge": "디젤(e-VGT) 2WD",
+        "BadgeDetail": "스마트 스페셜",
+        "Transmission": "오토",
+        "FuelType": "디젤",
+        "Year": 201310.0,
+        "FormYear": "2014",
+        "Mileage": 113838.0,
+        "Powerpack": "엔카 실촬영",
+        "Hotmark": "14;15;13",
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 850.0,
+        "OfficeCityState": "충북",
+        "ModifiedDate": "2023-06-14 18:33:58.000 +09"
+    }]
+}
